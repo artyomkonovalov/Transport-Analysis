@@ -2,17 +2,9 @@
 
 ## Кейс: Трамвайная сеть Санкт-Петербурга
 
-<div align="center">
-  <img src="media/banner.jpg" alt="Баннер проекта" style="
-    width: 100%;
-    max-width: 800px;
-    height: 200px;
-    object-fit: cover;
-    object-position: center calc(100% + 70px);
-    border-radius: 8px;
-    filter: brightness(0.6);
-  ">
-</div>
+<p align="center">
+  <img src="media/banner.jpg" alt="Баннер проекта" width="1450" style="max-width: 100%; border-radius: 8px;">
+</p>
 
 ## Цель проекта
 
