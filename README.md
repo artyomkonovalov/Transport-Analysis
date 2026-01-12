@@ -2,10 +2,16 @@
 
 ## Кейс: Трамвайная сеть Санкт-Петербурга
 
-<div style="width: 100%; height: 200px; overflow: hidden; border-radius: 8px; position: relative; min-width: 300px;">
-  <img src="media/banner.jpg" alt="Баннер проекта" 
-       style="width: 100%; height: 100%; object-fit: cover; object-position: center calc(100% + 70px);">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.4);"></div>
+<div align="center">
+  <img src="media/banner.jpg" alt="Баннер проекта" style="
+    width: 100%;
+    max-width: 800px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center calc(100% + 70px);
+    border-radius: 8px;
+    filter: brightness(0.6);
+  ">
 </div>
 
 ## Цель проекта
