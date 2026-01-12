@@ -107,9 +107,9 @@
 
 ## 🔑 Лицензия
 
-[MIT License](LICENSE)
+[MIT License](LICENSE) <br>
 Copyright © 2026 <br>
 Konovalov Artyom, Gomboev Amgalan, Muravyova Arina, Lobanov Maxim, Yazykov Andrey
 
-[CONTRIBUTING](CONTRIBUTING)
+[CONTRIBUTING](CONTRIBUTING) <br>
 Before using results from this research, please check this Data Attribution notice
