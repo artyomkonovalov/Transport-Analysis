@@ -27,6 +27,17 @@ This research project utilizes open data from the St. Petersburg Open Data Porta
 1. City Transport Routes (Trams) - data.gov.spb.ru
 2. List of Stop Points with Coordinates - data.gov.spb.ru
 
-The original data remains property of St. Petersburg and is used in accordance
-with their open data policies. This license applies only to the analysis,
-visualizations, and derivative works created by the authors.
+THIRD-PARTY VISUAL ASSETS
+Images, icons and graphical elements used in presentations, reports
+and documentation may be subject to separate licenses. 
+Stock photography from free image platforms (listed below) are licensed 
+under Creative Commons Zero (CC0) or similar permissive licenses:
+1. Pexels (pexels.com)
+2. Unsplash (unsplash.com)
+
+The MIT license applies only to the original code, analysis,
+visualizations, and derivative materials created by the authors.
+
+The original data remains property of St. Petersburg and 
+is used in accordance with their open data policies. 
+Third-party visual assets are excluded from this MIT License.
