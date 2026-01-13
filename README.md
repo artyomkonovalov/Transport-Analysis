@@ -92,7 +92,7 @@
 
 **[2] [Перечень остановочных пунктов с координатами](https://data.gov.spb.ru/irsi/7830001067-perechen-ostanovochnyh-punktov-s-ukazaniem-vida-transporta-i-s-koordinatami-ih-mestopolozheniya/)**
 
-**[3] [Распакованный архив с сырыми данными, выгруженный с data.gov.spb.ru](https://github.com/artyomkonovalov/Transport-Analysis/tree/main/data/raw_data_gov_spb/)**
+**[3] [Распакованный архив с сырыми данными, выгруженный с data.gov.spb.ru](https://github.com/artyomkonovalov/Transport-Analysis/tree/main/raw_data/)**
 
 ## 👥 Координация действий команды
 
